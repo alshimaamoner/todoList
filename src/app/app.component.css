@@ -1,0 +1,20 @@
+.done{
+  text-decoration-line: line-through;
+}
+.div{
+  align-content: center;
+}
+
+.input{
+ align-content: center;
+  margin: 5px;
+  padding: 5px;
+
+}
+.button{
+  align-content: center;
+ padding: 5px;
+  alignment: center;
+  align-items: center;
+}
+
