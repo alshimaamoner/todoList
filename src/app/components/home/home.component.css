@@ -1,0 +1,9 @@
+#addSpace{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.done{
+  text-decoration-line: line-through;
+  font-style: italic;
+  font-weight: bold;
+}
